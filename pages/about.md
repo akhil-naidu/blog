@@ -7,7 +7,6 @@ sidebar_link: true
 
 Hi, I'm Akhil, a web developer living in Tropical India.
 
-![James Hibbard](https://hibbard.eu/jim.jpg)
 
 Currently I work for SitePoint as editor of their [JavaScript hubs](https://www.sitepoint.com/learning-hubs/) and technical editor for various books (e.g. [JavaScript: Novice to Ninja](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition), [Jump Start Vue.js](https://www.sitepoint.com/premium/books/jump-start-vue-js/) and [Jump Start Web Performance](https://www.sitepoint.com/premium/books/jump-start-web-performance)).
 
