@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:            'James Hibbard'
+title:            'Akhil Naidu'
 tagline:          'Web Developer'
 description:      'Web developer, network admin and author'
 baseurl:          '' # the optional subpath of your site, e.g. /blog
-url:              https://hibbard.eu
+url:              https://leewardslope.com
 analytics: true
 comments: true
 disqus:
   shortname: james-hibbard
 
 author:
-  name:           'James Hibbard'
-  url:            https://twitter.com/jchibbard
+  name:           'Akhil Naidu'
+  url:            https://twitter.com/_kanaidu
 
 paginate:         10
 # paginate_path:    '/page:num', or '/blog/page:num' if you want to move your index pages
@@ -42,7 +42,7 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:           https://github.com/jameshibbard/blog
+  repo:           https://github.com/akhil-naidu/blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
