@@ -5,7 +5,7 @@ permalink: /about/
 sidebar_link: true
 ---
 
-Hi, I'm Jim, a web developer living in sunny Germany.
+Hi, I'm Akhil, a web developer living in Tropical India.
 
 ![James Hibbard](https://hibbard.eu/jim.jpg)
 
@@ -15,10 +15,9 @@ I also work as a network admin and freelance web dev, where I spend a fair bit o
 
 Here are some of the places you can find me online:
 
-- [GitHub](https://github.com/jameshibbard)
-- [StackOverflow](https://stackoverflow.com/users/1136887/james-hibbard)
-- [SitePoint Forums](https://www.sitepoint.com/community/u/James_Hibbard)
-- [Twitter](https://twitter.com/jchibbard)
+- [GitHub](https://github.com/akhil-naidu)
+- [StackOverflow](https://stackoverflow.com)
+- [Twitter](https://twitter.com/_kanaidu)
 
 ## Website
 
